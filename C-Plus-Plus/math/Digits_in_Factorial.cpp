@@ -1,5 +1,5 @@
 /*Problem: Given a number, find the number of digits in its factorial
-[For large numbers]Using Kamenetsky’s formula: f(x) = log10(((n/e)^n) * sqrt(2*pi*n))
+[Applicable For large numbers]Using Kamenetsky’s formula: f(x) = log10(((n/e)^n) * sqrt(2*pi*n))
 Using log properties: f(x) = n*log10((n/e)) + log10(2*pi*n)/2 
 */
 #include <bits/stdc++.h>
